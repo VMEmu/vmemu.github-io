@@ -1,2 +1,3 @@
 # vmemu.github-io
-Accurate x86 emulator based on 86Box.
+
+VMEmu is a PC emulator focused on accuracy and hardware preservation above all else. VMEmu is based on the 86Box emulator.
